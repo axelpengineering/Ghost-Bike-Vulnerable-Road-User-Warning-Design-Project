@@ -14,6 +14,15 @@ Designed a solution to intersection violence at St.George and Bloor. Project use
 
 ---
 ## Results
-**TBD**
-- TBD
+**Outcomes of the experience**
+-Learned how to undergo engineering documentation.
+-Learned how to proffessionally communicate with the client and to an engineering manager.
+-Learned about industry practices including status reports, using gantt charts conducting research and referencing.
+
+**Outcomes of the design**
+-Design had seemless integration into the intersection, making it non-distracting to drivers.
+-Sound cues were sufficient to alert pedestrians of danger.
+-Visual cues were sufficient to alert pedestrians of danger.
+-Memorialization aspect capable to inspire safer behaviours in pedestrians.
+-Outlined potential changes for future iterations: More environmental resistant designs, more sustainably built parts.
 
