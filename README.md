@@ -3,8 +3,8 @@ Designed a solution to intersection violence at St.George and Bloor. Project use
 
 **Highlights**
 - **Produced a Prototype:** Scaled down version with geometric representations of selected components.
-- **Acheived a :** Constrained below $20,000, with robot arms for cinema  typically being priced $100K-$500K.
-- **Large Range of Motion:** Due to Roomba inspired base design, the arm is able to move virutally anywhere within the area assuming it is flat.
+- **Presented Ideas:** The team conducted a 15 minute presentation assessing how our model performed against our chosen key performance indicators.
+- **Generated Alternative Solutions:** Developed quite distinguished alternative design solutions all feasible. Ultimately the other ones could have been their own projects.
 
 ## 🔗 Project Resources
 
