@@ -12,7 +12,6 @@ Designed a solution to intersection violence at St.George and Bloor. Project use
 
 📄 [Conceptual Design Specifications](https://docs.google.com/document/d/1t3tXn_6AWnJ1OVCh5ya8vaXRocIMQDEYLY4vLpZGl9c/edit?usp=sharing)
 
-<img src = "ZeynepCADBikePic"
 <img src="ZeynepCADBikePic" alt="Zeynep's CAD of Ghost Bike" width="400" height="200">
 
 
