@@ -14,7 +14,7 @@ Designed a solution to intersection violence at St.George and Bloor. Project use
 
 <img src="ZeynepCADBikePic" alt="Zeynep's CAD of Ghost Bike" width="350" height="200">
 
-**Credit to team member Zeynep Olmez for CAD of Ghost Bike*
+**Credit to team member Zeynep Olmez for CAD of Ghost Bike
 ---
 ## Results
 **Outcomes of the experience**
