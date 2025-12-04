@@ -22,6 +22,7 @@ Designed a solution to intersection violence at St.George and Bloor. Project use
 - Learned how to undergo engineering documentation.
 - Learned how to proffessionally communicate with the client and to an engineering manager.
 - Learned about industry practices including status reports, using gantt charts conducting research and referencing.
+- Links to robotics as any design and engineering skills will be required in Robotics projects.
 
 **Outcomes of the design**
 - Design had seemless integration into the intersection, making it non-distracting to drivers.
